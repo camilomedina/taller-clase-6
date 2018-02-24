@@ -10,12 +10,13 @@ import java.util.Scanner;
  * @author ASUS
  */
 public class Ejercicio1 {
+     public String nombre;
+      public  int nota;
+      public  int i=0,pregunta,promedio,acumulado=0;
+     
      public void main(String[] args) {
         Scanner dato= new Scanner(System.in);
-        String nombre;
-        int nota;
-        int i=0,pregunta,promedio,acumulado=0;
-     
+       
         // TODO code application logic here
         System.out.println("digite su nombre ");
         nombre=dato.next();

@@ -7,7 +7,7 @@ package principal;
 import Ejercicio1.Ejercicio1;
 import Ejercicio2.Ejercicio2;
 import Ejercicio3.Ejercicio3;
-import Ejercicio4.Ejercico4;
+import Ejercicio4.Ejercicio4;
 import Ejercicio5.Ejercicio5;
 import java.util.Scanner;
 
